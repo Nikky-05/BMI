@@ -265,5 +265,5 @@ if __name__ == '__main__':
     # Initialize database (comment out if MySQL is not available)
     # init_database()
     
-    app.run(host='0.0.0.0', port=5001, debug=True)
+    app.run(host='0.0.0.0', port=5009, debug=True)
 
